@@ -15,3 +15,17 @@ In the simd-booster repository, you can find SIMD-optimized alternatives for com
 By leveraging simd-booster, you can optimize your C++ projects and execute previously sluggish code more efficiently. The repository provides the necessary tools to harness SIMD operations and unlock the potential of high-performance C++ code.
 
 Boost your C++ applications with simd-booster, transforming slow and inefficient code into fast and powerful SIMD-enabled implementations.
+
+## Functions Included in simd-booster Repository
+
+simd-booster repository contains various functions optimized with SIMD (Single Instruction, Multiple Data) operations. These functions can accelerate and optimize different operations and algorithms. Some of the functions that can be included are:
+
+- SIMD-powered character tests (e.g., `isspace`, `isalpha`, `isdigit`)
+- SIMD-accelerated string operations (e.g., `strcmp`, `strcpy`, `strlen`)
+- SIMD-based data manipulation (e.g., vector operations, bit manipulation)
+- SIMD-optimized loop operations (e.g., vectorized loops, parallel computations)
+- SIMD-powered mathematical operations (e.g., vector operations, matrix computations)
+- SIMD-accelerated data processing and filtering functions (e.g., data compression, image processing)
+
+This is just a sample list, and the simd-booster repository can include many other functions that can be optimized with SIMD. Depending on your specific needs and project requirements, you can identify the operations that can benefit from SIMD optimization and find their accelerated versions in the simd-booster repository.
+
